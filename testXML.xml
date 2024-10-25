@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PersonInfo>
+	<C_ID>11032332</C_ID>
+	<StateRegPrimeNum>43221114452</StateRegPrimeNum>
+	<ContactInfo>
+		<Card>
+			<FIO>Иванов Алексей Васильевич</FIO>
+		</Card>
+		<PhoneNums>
+			<PhoneNum>
+				<Primary>true</Primary>
+				<Phone>89165504016</Phone>
+			</PhoneNum>
+			<PhoneNum>
+				<Primary>false</Primary>
+				<Phone>89166607814</Phone>
+			</PhoneNum>
+		</PhoneNums>
+		<PostAddrs>
+			<PostAddr>
+				<RegionID>40</RegionID>
+				<AddrType>REGISTRATION</AddrType>
+				<Country>РФ</Country>
+				<Region>Калужская обл</Region>
+				<City>Сухиничи</City>
+				<KladrCode/>
+			</PostAddr>
+		</PostAddrs>
+	</ContactInfo>
+	<OKVED>Предоставление услуг парикмахерскими и салонами красоты</OKVED>
+	<OKVED.NUM>96.02</OKVED.NUM>
+	<StateRegDt>
+		<Year>2010</Year>
+		<Month>05</Month>
+		<Day>21</Day>
+	</StateRegDt>
+</PersonInfo>
